@@ -1,5 +1,5 @@
 %% Project Mobius EVTOL飞行器初始化程序
-%% 搭配 Project_L_I_E.slx使用
+%% 搭配 Project_Mobius.slx使用
 %% 创建日期 2023/12/18
 %% 上次修改 2023/3/11
 %% version:1.0.7

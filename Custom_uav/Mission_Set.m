@@ -1,4 +1,4 @@
-%% Used for Matlab official EVTOL Flight Mission Estabilish
+%% Used for Custom EVTOL Flight Mission Estabilish
 %% Created: 2024/3/30
 %% Last Update: 2024/4/8
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

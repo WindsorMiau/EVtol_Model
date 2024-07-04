@@ -1,4 +1,4 @@
-%% Used for Matlab official EVTOL simulator analysis
+%% Used for Custom EVTOL simulator analysis
 %% Created: 2024/1/30
 %% Last Update: 2024/3/1
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
